@@ -131,7 +131,8 @@ Contenidos
 
 ### Herramientas Open-Source de programación, diseño e impresión 3D para Ingenieros
 
-El curso se puede dividir en 2 partes:
+El curso se divide en 2 partes:
+
 * Una primera destinada a presentar herramientas de programación open-source
 * Y una introducción al mundo del diseño y de la impresión 3D usando software Open-source
 
