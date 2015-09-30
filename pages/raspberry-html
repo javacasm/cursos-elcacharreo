@@ -1,0 +1,28 @@
+img class="alignleft" src="https://www.raspberrypi.org/wp-content/uploads/2015/08/raspberry-pi-logo.png" alt="raspberry" width="322" height="405" />
+<h1 id="raspberry-pi"><a class="headeranchor-link" href="#raspberry-pi" name="user-content-raspberry-pi"></a>Raspberry pi: introducción al uso y progamación</h1>
+Se trata de un curso de 150 horas (6 ECTS) del que ya se han realizado ya varias ediciones junto con la <a href="http://osl.ugr.es">Oficina de Software Libre</a> y el <a href="http://cevug.ugr.es">Centro de Enseñanzas Virtuales</a> de la Universidad de Granada
+
+Del 26 de octubre de 2015 al 15 de enero de 2016 tendrá lugar la <a href="http://cevug.ugr.es/raspberry_pi/">3ª edición</a> .
+
+Raspberry Pi se ha convertido, junto con Arduino, en uno de los máximos exponentes del desarrollo casero y profesional basado en herramientas libres, pudiendo ser una plataforma hardware de desarrollo, un pequeño ordenador personal sobre el que programar, navegar o editar un documento de texto, un reproductor de música, películas o imágenes, o la base sobre la que construir un sistema de almacenamiento en red para compartir archivos entre los equipos que tengamos en nuestra red.
+
+El Raspberry Pi se puede convertir fácilmente, por tanto, en un ordenador versátil utilizando cualquier teclado y ratón convencional USB. Además tiene un conector Ethernet para enchufarse a la red local y a Internet y una salida HDMI de vídeo.
+
+Por sus características y bajo precio, se ha convertido en una plataforma con muchísimo potencial que contribuye a desarrollar habilidades tecnológicas, promoviendo el aprendizaje de lenguajes de programación como Python, C o Perl, llevando el mundo de la programación a todo aquel que tenga interés en aprender, experimentar y realizar sus propios proyectos.
+
+Los objetivos del curso son:
+
+* Familiarizarse con la plataforma Raspberry Pi, aprendiendo a instalar y a usarla para diferentes fines.
+* Aprender a realizar programas usando lenguajes de scripts como Python o Perl
+* Aprender a montar proyectos con electrónica que se puedan controlar desde la plataforma
+<h2 id="contenidos"><a class="headeranchor-link" href="#contenidos" name="user-content-contenidos"><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Drawing_of_Raspberry_Pi_model_B_rev2.svg/1280px-Drawing_of_Raspberry_Pi_model_B_rev2.svg.png" alt="" width="510" height="346" /></a>Contenidos</h2>
+<ul>
+	<li>Introducción</li>
+	<li>Características generales de la placa Raspberry Pi. Hardware</li>
+	<li>Primeros pasos con Raspberry Pi. Software</li>
+	<li>Lenguaje de programación y entorno de desarrollo integrado</li>
+	<li>Utilización de librerías externas para programación</li>
+	<li>Conexión con equipos electrónicos y Arduino</li>
+	<li>Proyecto: creación de una aplicación</li>
+</ul>
+&nbsp;
