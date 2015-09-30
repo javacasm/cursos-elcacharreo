@@ -6,6 +6,8 @@ published: true
 
 # Robótica educativa: Proyectos educativos con robots
 
+Se trata de un curso dedicado a docentes con el fin de que aprendan a desarrollar proyectos que mezclen la robótica y el diseño 3D.
+
 Los objetivos del curso son:
 
 1. Conocer las posibilidades de la tecnología como recurso educativo.
