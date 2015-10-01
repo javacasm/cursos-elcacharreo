@@ -12,12 +12,14 @@ comments: []
 
 ---
 
+![img](https://lh3.googleusercontent.com/Is0gQaAVeuMotf_y--afywU2mcfjrxlr8HlzUVGcF8n_AgwwH4dgDoBI704I3YpFSHGzM6u25kETa-thqJEsncSudsXw8p1DfrXY04zHMSEovYLK5N2rEM2CVnnfXr64RTZJENl-5VDJvluKbfCVqHSb5t7whL4b5lPTsU_UfwnGmsYLLE0gEEt0oo5fb3r1cF3vs1cqqs1dHWVBeozIDoiWqV5LCPND2iJf1ttSWZzolk4_x0XmWOx7dxPHxCC9VAgoCvCVrpYo3T8wUUPp5wmSOOWvTKv0Q4Q2sCDGsnjF2aJX3Lld1TPFE2LbEeVXvANtzlQ-sqO6sMQhNJhCQ7hZq0RJY3hj4tuYwpLDkp_D5lqB8JAvnZUmyAW9NSjpKbQ9Xuj7XZuioD6QtFhVtx_OikXXstnoiyz7zNzUqJNMZ9VudU4srPad06rO0gXsAChtW9ZB-D2-qpSEkUxevM0ZnIPOiotS0NTZ3mSC9APev1aZfQ9CggMQq3Pir1mEPCQaY2K_Xv4ldHd5Em-OowCLB2Jwuu2ZHRvaWfMzQrOS=s944-no)
+
 # Robotica educativa I: 
 ## Arduino: soluciones en Domótica y Robótica
 
 Se trata de un curso orientado a los docentes dotándolos de las herramientas necesarias para puedan utilizar la robótica en clase.
 
-Para ello se les introduce en el mundo de la robótica utilizando Arduino y Bitbloq
+Para ello se les introduce en el mundo de la robótica utilizando Arduino y [Bitbloq](http://bitbloq.bq.com)
 
 Como muestra una de las [presentaciones utilizadas](http://www.slideshare.net/javacasm/robtica-educativa-swipe) (el resto están en github y slideshare)
 
