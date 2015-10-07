@@ -8,7 +8,7 @@ published: false
 
 ![appinventor](http://granabot.es/wp-content/uploads/2015/03/app-inventor.jpg)
 
-Se trata de un curso, tanto presencial como online, que no requiere conocimientos de progración, dada la sencillez de uso del entorno [AppInventor](http://ai2.appinventor.mit.edu)
+Se trata de un curso, tanto presencial como online, que no requiere conocimientos de programación, dada la sencillez de uso del entorno [AppInventor](http://ai2.appinventor.mit.edu)
 
 AppInventor es un entorno de programación, basado en tecnologías opensource,  para crear aplicaciones Android creado por el Mit y que permite desarrollar aplicaciones utilizando un entorno sencillo basado en bloques.
 
@@ -26,4 +26,4 @@ Además, dada su filosofía open, dispone de una gran cantidad de aplicaciones y
 * Fundamentos de programación
 * Imágenes, sonido y vídeo
 * Bases de datos
-* Gráfica
+* Gráficos
