@@ -11,13 +11,11 @@ published: false
 [](#raspberry-pi)Raspberry pi: introducción al uso y progamación {#raspberry-pi}
 ================================================================
 
-Se trata de un curso de 15 horas que se organizado por [Darwin Eventur](http://www.darwineventur.com)
+Se trata de un curso de 15 horas presenciales más 10 de trabajo online que será organizado por [Darwin Eventur](http://www.darwineventur.com)
 
 Tendrá lugar en la Facultad de Ciencias el 19 y 20 de noviembre de 2015
 
-Raspberry Pi se ha convertido, junto con Arduino, en uno de los máximos exponentes del desarrollo casero y profesional basado en herramientas libres, pudiendo ser una plataforma hardware de desarrollo, un pequeño ordenador personal sobre el que programar, navegar o editar un documento de texto, un reproductor de música, películas o imágenes, o la base sobre la que construir un sistema de almacenamiento en red para compartir archivos entre los equipos que tengamos en nuestra red. 
-
-Raspberry Pi se puede convertir fácilmente, por tanto, en un ordenador versátil utilizando cualquier teclado y ratón convencional USB. Además tiene un conector Ethernet para enchufarse a la red local y a Internet y una salida HDMI de vídeo. Por sus características y bajo precio, se ha convertido en una plataforma con muchísimo potencial que contribuye a desarrollar habilidades tecnológicas, promoviendo el aprendizaje de lenguajes de programación como Python, C o Perl, llevando el mundo de la programación a todo aquel que tenga interés en aprender, experimentar y realizar sus propios proyectos. 
+Raspberry Pi es uno de lo proyectos Open-Source más exitosos (junto con Arduino) de todos los tiempos y ha conseguido cambiar el concepto que teníamos de ordenador, permitiendo desarrollar proyectos a todos los niveles y prácticamente en todos los sectores.
 
 ### Los objetivos del curso son: 
 
