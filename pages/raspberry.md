@@ -1,6 +1,6 @@
 ![raspberry](https://www.raspberrypi.org/wp-content/uploads/2015/08/raspberry-pi-logo.png)
 
-[](#raspberry-pi)Raspberry pi: introducción al uso y progamación {#raspberry-pi}
+[](#raspberry-pi)Raspberry pi: introducción al uso y programación {#raspberry-pi}
 ================================================================
 
 Se trata de un curso de 150 horas (6 ECTS) del que ya se han realizado ya varias ediciones junto con la [Oficina de Software Libre](http://osl.ugr.es) y el [Centro de Enseñanzas Virtuales](http://cevug.ugr.es) de la Universidad de Granada.
