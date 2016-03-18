@@ -15,7 +15,7 @@ comments: []
 # Cursos impartidos
 
 
-## 2016
+# 2016
 
 ## Arduino Inicial
 CEP Córdoba - Abril 2016 16h
@@ -40,7 +40,7 @@ CEP Granada - Enero-Febrero 2016 16h
 
 * * *
 
-## 2015
+# 2015
 
 ## Raspberry (3ed)
 CEVUG - -Noviembre 2015 - Enero 2016 - 150h
