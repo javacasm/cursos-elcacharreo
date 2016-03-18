@@ -25,6 +25,7 @@ CEP Linares - Marzo-Abril 2016 16h
 
 ## Arduino Inicial
 CEP Úbeda - Febrero-Marzo 2016 16h
+
 CEO Órcera - Febrero-Marzo 2016 16h
 
 ## Arduino intermedio
