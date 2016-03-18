@@ -1,4 +1,4 @@
---- 
+---
 layout: page
 status: publish
 published: true
@@ -15,13 +15,37 @@ comments: []
 # Cursos impartidos
 
 
+## 2016
 
+## Arduino Inicial
+CEP Córdoba - Abril 2016 16h
 
+## Arduino Avanzado - Proyectos con Robots
+CEP Linares - Marzo-Abril 2016 16h
+
+## Arduino Inicial
+CEP Úbeda - Febrero-Marzo 2016 16h
+CEO Órcera - Febrero-Marzo 2016 16h
+
+## Arduino intermedio
+CEP Motril - Enero-Febrero 2016 16h
+
+## Programar para Educar
+CEP Granada - Enero 2016 16h
+
+## Proyectos educativos con Robots
+CEP Granada - Enero-Febrero 2016 16h
 
 
 * * *
 
 ## 2015
+
+## Raspberry (3ed)
+CEVUG - -Noviembre 2015 - Enero 2016 - 150h
+
+## Curso básico de Arduino (5ed)
+CEVUG - Octubre-Diciembre 2015 - 70h (virtuales)
 
 ## Arduino avanzado
 Facultad de Ciencias - Julio 2015 60h
@@ -110,12 +134,12 @@ Universidad de Granada -  Julio 2014 - 20h
 ## Programación cliente-servidor en Javascript (3ed)
 CEVUG - Octubre-diciembre 2014 - 75h (virtuales)
 
-## Robotica Educativa II 
+## Robotica Educativa II
 CEP de Jaén - Diciembre 2014 - 32h
 
 * Introducción a la robótica
 * Robots móviles (printbot)
-* Brazo robótico 
+* Brazo robótico
 
 ## Programación en Android
 CEP Jaén - Diciembre 2014 - 30h
