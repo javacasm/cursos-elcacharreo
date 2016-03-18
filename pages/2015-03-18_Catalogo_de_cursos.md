@@ -6,29 +6,28 @@ published: true
 
 # Catálogo de cursos
 
-* * * 
+* * *
 
 ## Robótica
 
-### Robótica e Inteligencia Artificial 
+### Programar para educar
 
+El objetivo del curso es poner en contacto a los docentes con las herramientas más actuales que permiten utilizar y enseñar la programación dentro del aula.
 
-Se trata de un curso de introducción a la robótica, exponiendo los conceptos de robótica e inteligencia artificial, aplicándolo al diseño de robots controlados por Arduino.
+Se han escogido herramientas sencillas, todas ellas programables con bloques que nos permiten crear aplicaciones y desarrollar proyectos con arduino o desarrollar aplicaciones Android con gran facilidad.
 
-Las presentaciones y ejemplos se encuentran en slidhsare y github
+Índice:
 
-Está estructurado para 60 horas y se impartió para la fundación IFES en Julio de 2014
+1. Contexto
+1. Iniciativas
+1. Lenguajes de programación
+1. Programando con bloques
+1. Scratch y alternativas
+1. Arduino / makey makey / BitBloq
+1. App inventor
+1. Pequeñas experiencias de aula / repositorios / Proyectos
 
-* Conceptos generales de la inteligencia artificial.
-* Nociones de prolog (programación lógica).
-* Sistemas expertos. [presentación](http://www.slideshare.net/javacasm/3-inteligencia-artificial-ramas)
-* Agentes inteligentes
-* Robótica.
-* El proyecto ALICE.
-* Programando un robot: Aplicación con arduino
-* Publicando un robot.
-
-[Para más información](http://blog.elcacharreo.com/cursos/robotica-e-inteligencia-artificial/)
+[Para más información](https://github.com/javacasm/ProgramarParaEducar)
 
 ### Robótica educativa I : introducción a la robótica y la domótica
 
@@ -42,7 +41,7 @@ Para ello se les introduce en el mundo de la robótica utilizando Arduino y Bitb
 En este curso hemos trabajado los 3 pilares de la robótica:
 
 * La programación, para lo que se ha usado un entorno de programación visual llamado bitbloq que facilita enormemente el aprendizaje, a la vez que nos introduce con facilidad en la programación más avanzada.
- 
+
 * Le electrónica y la mecánica, para lo que hemos usado pequeños módulos electronicos y motores integrados (servos) que nos facilitan la manipulacion enormemente. Siguiendo unos esquemas sencillos es posible desarrollar proyectos complejos capaces de interaccionar con el entorno. Como cerebro de los proyectos se ha utilizado una placa Arduino, paradigma del movimiento open-hardware y ejemplo de éxito.
 
 * El diseño 3D que nos ha permitido usar piezas diseñadas específicamente para nuestros modelos y que con un sencillo ensamblaje han permitido hacer robot móviles y brazos robóticos.
@@ -62,6 +61,26 @@ Los objetivos del curso son:
 En este curso se desarrollaran 3 proyectos diferentes que tendrán en común el usar una placa Arduino como controlador. Los contenidos sobre Arduino se explicaron en el módulo I de la formación dedicada a la construcción de drones. Se parte de un diseño genérico que los alumnos han de implementar.
 
 [Para más información](http://blog.elcacharreo.com/cursos/proyectos-educativos-con-robots/)
+
+### Robótica e Inteligencia Artificial
+
+
+Se trata de un curso de introducción a la robótica, exponiendo los conceptos de robótica e inteligencia artificial, aplicándolo al diseño de robots controlados por Arduino.
+
+Las presentaciones y ejemplos se encuentran en slidhsare y github
+
+Está estructurado para 60 horas y se impartió para la fundación IFES en Julio de 2014
+
+* Conceptos generales de la inteligencia artificial.
+* Nociones de prolog (programación lógica).
+* Sistemas expertos. [presentación](http://www.slideshare.net/javacasm/3-inteligencia-artificial-ramas)
+* Agentes inteligentes
+* Robótica.
+* El proyecto ALICE.
+* Programando un robot: Aplicación con arduino
+* Publicando un robot.
+
+[Para más información](http://blog.elcacharreo.com/cursos/robotica-e-inteligencia-artificial/)
 
 
 * * *
@@ -104,7 +123,7 @@ Puedes ver algunos de los vídeos del curso así como de los proyectos que han h
 
 [Para más información](http://blog.elcacharreo.com/cursos/arduino-avanzado/)
 
-* * * 
+* * *
 
 ## Raspberry pi
 
@@ -114,7 +133,7 @@ Los objetivos del curso son:
 
 * Familiarizarse con la plataforma Raspberry Pi, aprendiendo a instalar y a usarla para diferentes fines.
 * Aprender a realizar programas usando python o perl
-* Aprender a montar proyectos con electrónica que se puedan controlar desde la plataforma 
+* Aprender a montar proyectos con electrónica que se puedan controlar desde la plataforma
 
 Contenidos
 
@@ -144,7 +163,7 @@ El curso se divide en 2 partes:
 
 ### Programación en Java para Android
 
-El objetivo de este curso es la iniciación para aquellos que quieren aprender a programar Android, pero no han trabajado antes con Java. 
+El objetivo de este curso es la iniciación para aquellos que quieren aprender a programar Android, pero no han trabajado antes con Java.
 
 El curso puede ser un excelente punto de entrada para todos aquellos que quieren iniciarse en la programación orientada a objetos (POO) con Java.
 
