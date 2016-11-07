@@ -29,14 +29,19 @@ CEP Linares-Andújar Mayo 2016 12h
 ## Arduino Inicial
 CEP Córdoba - Abril 2016 16h
 
+## Desarrollo de aplicaciones Android
+CEP Granada - Abril 2016 15h
+
 ## Arduino Avanzado - Proyectos con Robots
 CEP Linares - Marzo-Abril 2016 16h
+
+## La robótica en la educación
+CEP Antquera - Marzo 2016 3h
 
 ## Arduino Inicial
 CEP Úbeda - Febrero-Marzo 2016 16h
 
 CEO Órcera - Febrero-Marzo 2016 16h
-
 
 ## Programación de dispositivos Android (App Inventor)
 Experto Universitario en Robótica UNIR Enero-Febrero 2016 50h
