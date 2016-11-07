@@ -17,6 +17,15 @@ comments: []
 
 # 2016
 
+## Iniciación al Diseño e impresión 3D
+Facultad de Ciencias, Granada, Julio 2016 15h
+
+## Arduino avanzado - Proyectos con Robots
+CEP Úbeda Abril-Mayo 2016 24h
+
+## Introducción y programación de raspberry
+CEP Linares-Andújar Mayo 2016 12h
+
 ## Arduino Inicial
 CEP Córdoba - Abril 2016 16h
 
@@ -27,6 +36,13 @@ CEP Linares - Marzo-Abril 2016 16h
 CEP Úbeda - Febrero-Marzo 2016 16h
 
 CEO Órcera - Febrero-Marzo 2016 16h
+
+
+## Programación de dispositivos Android (App Inventor)
+Experto Universitario en Robótica UNIR Enero-Febrero 2016 50h
+
+## Desarrollo de aplicaciones robóticas
+Experto Universitario en Robótica UNIR Enero-Febrero 2016 50h
 
 ## Arduino intermedio
 CEP Motril - Enero-Febrero 2016 16h
