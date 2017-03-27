@@ -25,6 +25,12 @@ CEP de Antequera, Enero-Marzo 2017, 20h
 ## Uso de herramientas tecnológicas (TIC) en el aula
 CEP de Granada, Enero-Mayo 2017, 20h
 
+## Diseño e impresión 3D para el mundo de la moda
+Escuela Arte Granada, Febrero 2017, 10h
+
+## ICT Tools for english teachers
+English Matters, Jaen, Febrero 2017, 5h
+
 ## Robótica e Impresión 3D para educación primaria e infantil
 Jornadas CSI-F, 24-25 Marzo  2017
 
@@ -32,6 +38,15 @@ Jornadas CSI-F, 24-25 Marzo  2017
 
 ## Arduino Avanzado
 Facultad de Ciencias, Granada, Diciembre 2016, 250h
+
+## Introducción y programación de raspberry
+CEP de Jaén, Noviembre 2016, 10h
+
+## ICT Tools for english teachers
+English Matters, Jaen, Noviembre 2016, 5h
+
+## Arduino para profesores de Arte
+Escuela Arte Granada, Julio-Septiembre 2016, 25h
 
 ## Iniciación al Diseño e impresión 3D
 Facultad de Ciencias, Granada, Julio 2016 15h
