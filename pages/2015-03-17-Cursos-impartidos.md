@@ -14,8 +14,24 @@ comments: []
 
 # Cursos impartidos
 
+# 2017
+
+## FPGAs, las impresoras 3D de la electrónica
+CEP de Linares, Enero 2017
+
+## Introducción a la robótica
+CEP de Antequera, Enero-Marzo 2017, 20h
+
+## Uso de herramientas tecnológicas (TIC) en el aula
+CEP de Granada, Enero-Mayo 2017, 20h
+
+## Robótica e Impresión 3D para educación primaria e infantil
+Jornadas CSI-F, 24-25 Marzo  2017
 
 # 2016
+
+## Arduino Avanzado
+Facultad de Ciencias, Granada, Diciembre 2016, 250h
 
 ## Iniciación al Diseño e impresión 3D
 Facultad de Ciencias, Granada, Julio 2016 15h
