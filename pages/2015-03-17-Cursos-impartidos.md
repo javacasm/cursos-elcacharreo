@@ -1,4 +1,18 @@
-# Cursos impartidos por José Antonio Vacas
+---
+layout: page
+status: publish
+published: true
+title: "Cursos impartidos"
+author: javacasm
+categories: []
+
+tags: []
+
+comments: []
+
+---
+
+# Cursos impartidos
 
 # 2017
 
