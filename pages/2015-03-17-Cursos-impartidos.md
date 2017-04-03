@@ -1,18 +1,4 @@
----
-layout: page
-status: publish
-published: true
-title: "Cursos impartidos"
-author: javacasm
-categories: []
-
-tags: []
-
-comments: []
-
----
-
-# Cursos impartidos
+# Cursos impartidos por José Antonio Vacas
 
 # 2017
 
@@ -28,6 +14,9 @@ CEP de Granada, Enero-Mayo 2017, 20h
 ## Diseño e impresión 3D para el mundo de la moda
 Escuela Arte Granada, Febrero 2017, 10h
 
+## Arduino Avanzado
+Facultad de Ciencias, Granada, Febrero 2017, 25h
+
 ## ICT Tools for english teachers
 English Matters, Jaen, Febrero 2017, 5h
 
@@ -36,8 +25,8 @@ Jornadas CSI-F, 24-25 Marzo  2017
 
 # 2016
 
-## Arduino Avanzado
-Facultad de Ciencias, Granada, Diciembre 2016, 250h
+## Arduino Básico
+Facultad de Ciencias, Granada, Diciembre 2016, 15h
 
 ## Introducción y programación de raspberry
 CEP de Jaén, Noviembre 2016, 10h
