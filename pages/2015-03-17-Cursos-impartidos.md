@@ -16,6 +16,39 @@ comments: []
 
 # 2017
 
+## Materiales del MOOC “TECH Project: Arduino en el aula”
+Consejería de Educación de la Junta de Andalucía, Septiembre 2017-Mayo 2018
+
+## Talleres Tecnológicos sobre IOT y Smart Cities
+Red Guadalinfo, Mayo 2017-Enero 2018
+
+## Curso de uso de herramientas TIC en el aula
+CEP de Granada, Noviembre 2017-Mayo 2018
+
+## 5ª Edición del curso online de Arduino Avanzado
+CEVUG UGR, Noviembre 2017 - Enero 2018
+
+## 8ª Edición del curso online de Arduino Básico
+CEVUG UGR, Noviembre 2017 - Diciembre 2017
+
+## 1ª Edición curso online de Uso de Raspberry Pi
+Campus Tecnológico Virtual, Noviembre 2017-Enero 2018
+
+## Curso de uso y programación de Raspberry
+CEP de Jaén, Noviembre de 2017
+
+## Formación tecnológica (Robótica y 3D)  para alumnos de necesidades especiales
+Fundación Meridianos, Octubre 2017-Junio 2018
+
+## Curso de diseño e impresión 3D
+CEP de Guadix,  Noviembre de 2017
+
+## Curso de diseño e impresión 3D
+CEP de Baza, Octubre-Noviembre de 2017
+
+## Nuevas Tecnologías aplicadas en el aula: Impresión 3D y Robótica
+CEP de Granada, Enero-Abril 2017
+
 ## FPGAs, las impresoras 3D de la electrónica
 CEP de Linares, Enero 2017
 
@@ -75,7 +108,8 @@ CEP Antquera - Marzo 2016 3h
 ## Arduino Inicial
 CEP Úbeda - Febrero-Marzo 2016 16h
 
-CEO Órcera - Febrero-Marzo 2016 16h
+## Arduino Inicial
+CEP Orcera - Febrero-Marzo 2016 16h
 
 ## Programación de dispositivos Android (App Inventor)
 Experto Universitario en Robótica UNIR Enero-Febrero 2016 50h
@@ -105,14 +139,6 @@ CEVUG - Octubre-Diciembre 2015 - 70h (virtuales)
 
 ## Arduino avanzado
 Facultad de Ciencias - Julio 2015 60h
-
-* Programación avanzada
-* Librerías
-* Sensores
-* LCDs
-* Motores
-* Led Matrix
-* RFid
 
 ## Herramientas Open-Source de programación, diseño e impresión 3D para Ingenieros
 Escuela de Ingenieros - 20-29 de Mayo 2015  - 20h
