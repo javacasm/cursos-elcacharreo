@@ -227,16 +227,9 @@ CEVUG - Mayo-Julio 2015 - 100h (virtuales)
 ## Robótica Educativa I
 CEP de Linares - Abril-Mayo 2015 - 30h
 
-* Introducción a arduino
-* Bitbloq
-* Programación con el entorno de Arduino
-* Librerías
-
 ## Proyectos de Robotica Educativa  III
 CEP de Granada - Abril 2015 - 20h
 
-* Uso de librerías
-* Almacenamiento
 * Proyectos:
 	* Invernadero automatizado con Arduino
 	* Robot móvil
@@ -251,26 +244,12 @@ CEVUG - Marzo-Mayo 2015 - 70h (virtuales)
 ## Proyectos de Robótica educativa con Arduino y 3D
 CEP de Granada - Enero-Febrero 2015 - 20h
 
-* Introducción a arduino
-* Bitbloq
-* Programación con el entorno de Arduino
-* Librerías
-
 * * *
 
 ## 2014
 
 ## Inteligencia Artificial y Robótica
 Fundacion IFES - Julio 2014 - 60 h
-
-* Conceptos generales de la inteligencia artificial.
-* Nociones de prolog (programación lógica).
-* Sistemas expertos.
-* Agentes inteligentes
-* Robótica.
-* El proyecto ALICE.
-* Programando un robot: Aplicación con arduino
-* Publicando un robot.
 
 ## Robótica Educativa I
 CEPJaén - Abril 2014 - 30 h
@@ -304,11 +283,6 @@ CEP de Jaén - Diciembre 2014 - 32h
 ## Programación en Android
 CEP Jaén - Diciembre 2014 - 30h
 
-* Introducción a la programación en Android
-* Entorno de programación: Android Studio
-* Controles visuales
-* Desarrollo de una Aplicacíón: Calculadora
-
 ## Raspberry (2ed)
 CEVUG - Octubre 2013 - Enero 2014 - 150h
 
@@ -333,7 +307,6 @@ Universidad Jaén - Abril 2013 - 8h
 # Arduino avanzado
 Darwin Eventur - Mayo 2013 - 30h
 
-
 ## Monta tu impresora 3D
 Granada Imprusa - Septiembre 2013 -  16h
 
@@ -342,10 +315,6 @@ CEVUG - Octubre-dicembre 2013 - 75h (virtuales)
 
 ## Robotización de herramientas Agrícolas
 ADEGUA - Noviembre 2013-Enero 2014 - 250h
-
-* Promgación de Arduino
-* Electrónica
-* Proyectos
 
 ## Arduino avanzado (1ed)
 CEVUG - Octubre-Dicembre 2013 - 100h (online)
