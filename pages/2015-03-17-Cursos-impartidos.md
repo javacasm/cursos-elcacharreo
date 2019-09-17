@@ -14,6 +14,81 @@ comments: []
 
 # Cursos impartidos
 
+# 2019
+
+## Programación con Scratch
+CEP Antequera - Noviembre 2019
+
+## Arduino y Scratch
+CEP Priego-Montilla - Noviembre 2019
+
+## Programación y robótica para primaria: Scratch y Echidna
+CEP Priego-Montilla - Octubre 2019
+
+## Robotica con MakeBlock
+Red Guadalinfo - Junio-Septiembre 2019
+
+## “El Desafío: ¿Se puede aprender a programar desde cero y en tan solo una hora para resolver un problema de la vida cotidiana?” 
+Conecta 13 - Julio 2019
+
+## Software y recursos para impresoras 3D
+CEP Guadix - Mayo 2019
+
+## Proyectos TIC: Evaluación y seguimiento
+CEP Granada - Mayo 2019
+
+##  Curso de Raspberry Pi Básico
+CEP Priego-Montilla - Abril 2019
+
+## Cómo integrar la robótica en Educación Primaria
+CEP Úbeda - Abril 2019 
+
+## Diseño e impresión 3D
+CEP Priego-Montilla - Marzo 2019
+
+## Scratch, aprender programando
+CEP Guadix - Febrero 2019
+
+## Introducción a Robotica para Primaria 
+CEP de Antequera - Enero 2019
+
+# 2018
+
+## Curso de Introducción a la robótica para Secundaria 
+CEP de Antequera - Diciembre 2018
+
+## Las bases para el IoT (Internet of Things) 
+CEP Priego-Montilla - Noviembre 2019
+
+## Curso Proyectos TIC Internivelares
+CEP de Granada - Septiembre 2019
+
+## Talleres tecnológicos para ciudadanía
+Red Guadalinfo /Consorcio Fernando de los Ríos - Enero-Diciembre 2018
+
+## 2ª y 3ª edición del curso básico de uso de Rapsberry
+Campus Virtual Enero - Junio de 2018
+
+## Curso de Configuración Impresión 3D
+CEP de Linares, Junio 2018
+
+## Curso de Introducción a la programación y robótica para la educación de adultos
+CEP de Motril, Mayo de 2018
+
+## Curso "Desde 0 a experto en Arduino"
+Asociación Darwin Eventur, Marzo-Mayo 2018
+
+## Curso de Programación y robótica con arduino e IoT
+CEP de Priego, Abril 2018
+
+## Curso de Raspberry Avanzado
+CEP de Linares - Marzo 2018
+
+
+## Talleres Tecnológicos sobre IOT y tecnologías para la vida
+Red Guadalinfo, Enero 2018 - Diciembre de 2018
+
+
 # 2017
 
 ## Materiales del MOOC “TECH Project: Arduino en el aula”
@@ -30,6 +105,9 @@ CEVUG UGR, Noviembre 2017 - Enero 2018
 
 ## 8ª Edición del curso online de Arduino Básico
 CEVUG UGR, Noviembre 2017 - Diciembre 2017
+
+## Creación y publicación del curso “Arduino desde 0, aprende a crear tus propios proyectos”  
+Udemy (con más de 2450 alumnos) https://www.udemy.com/arduino-cero
 
 ## 1ª Edición curso online de Uso de Raspberry Pi
 Campus Tecnológico Virtual, Noviembre 2017-Enero 2018
